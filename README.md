@@ -34,6 +34,7 @@ nohup python main.py --model escm --test --model_path save/test/CEM_19999_42.503
 
 ## Data Preprocess
 If you want to preprocess the dependency tree yourself, you should:
+
 1.Preprocess the dependency tree.
 ```sh
 nohup python data_preprocess_tree.py --data_type context  --device 7 > contxt_dep.log 2>&1 &
