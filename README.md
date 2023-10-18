@@ -1,4 +1,4 @@
-# EmpatheticDialogueGeneration_ESCM
+# ESCM
 ## Code and data for EMNLP 2023 findings: Exploiting Emotion-Semantic Correlations for Empathetic Response Generation.
 
 ## Environment Installation
@@ -13,7 +13,6 @@ or
 ```sh
 conda env create -f envs.yml
 ```
-3.
 ## Model Training
 ```sh
 output=escm_train.log
