@@ -13,7 +13,7 @@ cd EmpatheticDialogueGeneration_ESCM/
 ```
 5. Download the data, and put it into the project root directory. （Baidu cloud link: https://pan.baidu.com/s/1lHLkNtBiWYyIgc40dJo6jA?pwd=7uqk
 Code: 7uqk）(Google cloud link: https://drive.google.com/file/d/1pxmXP8sG-gmYp2LyNr4eS6J7QOhsplqP/view?usp=sharing)
-6. Install the environment.
+6. Install required packages
 ```sh
 pip install -r requirements.txt
 ```
