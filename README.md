@@ -46,4 +46,4 @@ nohup python preprocess_vocab.py --device 4 > vocab.log 2>&1 &
 nohup python statistics.py > statistics.log 2>&1 &
 ```
 ## Others
-The project mainly referenced the code from Project [CEM](https://github.com/Sahandfer/CEM) and Project [SEEK](https://github.com/wlr737/EMNLP2022-SEEK). If there are issues during installation, you can try using the environments from these two projects.
+The project mainly referenced the code from [CEM](https://github.com/Sahandfer/CEM) and [SEEK](https://github.com/wlr737/EMNLP2022-SEEK). If there are issues during installation, you can try using the environments from these two projects.
