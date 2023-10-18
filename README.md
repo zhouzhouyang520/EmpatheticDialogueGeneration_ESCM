@@ -41,7 +41,9 @@ nohup python data_preprocess_tree.py --data_type context  --device 7 > contxt_de
 nohup python data_preprocess_tree.py --data_type target --device 4 > target_dep.log 2>&1 &
 ```
 2.Preprocess the vocab.
+```sh
 nohup python preprocess_vocab.py --device 4 > vocab.log 2>&1 &
+```
 
 ## Analyzing the emotion-semantic correlations
 ```sh
