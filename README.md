@@ -11,8 +11,7 @@ git clone EmpatheticDialogueGeneration_ESCM
 ```sh
 cd EmpatheticDialogueGeneration_ESCM/
 ```
-5. Download the data, and put it into the project root directory. （Baidu cloud link: https://pan.baidu.com/s/1lHLkNtBiWYyIgc40dJo6jA?pwd=7uqk
-Code: 7uqk）(Google cloud link: https://drive.google.com/file/d/1pxmXP8sG-gmYp2LyNr4eS6J7QOhsplqP/view?usp=sharing)
+5. Download the data, and put it into the project root directory. [Baidu cloud link](https://pan.baidu.com/s/1lHLkNtBiWYyIgc40dJo6jA?pwd=7uqk) with Code: 7uqk or [Google cloud link](https://drive.google.com/file/d/1pxmXP8sG-gmYp2LyNr4eS6J7QOhsplqP/view?usp=sharing)
 6. Install required packages
 ```sh
 pip install -r requirements.txt
@@ -47,4 +46,4 @@ nohup python preprocess_vocab.py --device 4 > vocab.log 2>&1 &
 nohup python statistics.py > statistics.log 2>&1 &
 ```
 ## Others
-The project mainly referenced the code from Project [CEM]（https://github.com/Sahandfer/CEM） and Project [SEEK](https://github.com/wlr737/EMNLP2022-SEEK). If there are issues during installation, you can try using the environments from these two projects.
+The project mainly referenced the code from Project [CEM](https://github.com/Sahandfer/CEM) and Project [SEEK](https://github.com/wlr737/EMNLP2022-SEEK). If there are issues during installation, you can try using the environments from these two projects.
