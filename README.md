@@ -20,6 +20,7 @@ or
 ```sh
 conda env create -f envs.yml
 ```
+The project mainly referenced the code from [CEM](https://github.com/Sahandfer/CEM) and [SEEK](https://github.com/wlr737/EMNLP2022-SEEK). If there are issues during installation, you can try using the environments from these two projects.
 ## Model Training
 ```sh
 output=escm_train.log
@@ -45,5 +46,3 @@ nohup python preprocess_vocab.py --device 4 > vocab.log 2>&1 &
 ```sh
 nohup python statistics.py > statistics.log 2>&1 &
 ```
-## Others
-The project mainly referenced the code from [CEM](https://github.com/Sahandfer/CEM) and [SEEK](https://github.com/wlr737/EMNLP2022-SEEK). If there are issues during installation, you can try using the environments from these two projects.
