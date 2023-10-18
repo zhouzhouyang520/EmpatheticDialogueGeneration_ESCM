@@ -7,12 +7,12 @@ To run this code, you should：
 ```sh
 git clone EmpatheticDialogueGeneration_ESCM
 ```
-3. Enter the project root directory
+2. Enter the project root directory
 ```sh
 cd EmpatheticDialogueGeneration_ESCM/
 ```
-5. Download the data, and put it into the project root directory. [Baidu cloud link](https://pan.baidu.com/s/1lHLkNtBiWYyIgc40dJo6jA?pwd=7uqk) with Code: 7uqk or [Google cloud link](https://drive.google.com/file/d/1pxmXP8sG-gmYp2LyNr4eS6J7QOhsplqP/view?usp=sharing)
-6. Install required packages
+3. Download the data, and put it into the project root directory. [Baidu cloud link](https://pan.baidu.com/s/1lHLkNtBiWYyIgc40dJo6jA?pwd=7uqk) with Code: 7uqk or [Google cloud link](https://drive.google.com/file/d/1pxmXP8sG-gmYp2LyNr4eS6J7QOhsplqP/view?usp=sharing)
+4. Install required packages
 ```sh
 pip install -r requirements.txt
 ```
