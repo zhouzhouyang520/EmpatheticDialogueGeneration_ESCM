@@ -4,7 +4,7 @@
 ## Environment Installation
 To run this code, you should：
 1. Download the data, and put it into the root folder of the project. （Baidu cloud link: https://pan.baidu.com/s/1lHLkNtBiWYyIgc40dJo6jA?pwd=7uqk
-Code: 7uqk）(Google cloud link: )
+Code: 7uqk）(Google cloud link: https://drive.google.com/file/d/1pxmXP8sG-gmYp2LyNr4eS6J7QOhsplqP/view?usp=sharing)
 2. Install the environment.
 ```sh
 pip install -r requirements.txt
