@@ -1,6 +1,10 @@
 # ESCM
 ## Code and data for EMNLP 2023 findings: Exploiting Emotion-Semantic Correlations for Empathetic Response Generation.
 
+## Envs
+python==3.10.13
+torch==2.0.1
+
 ## Environment Installation
 To run this code, you should：
 1. Clone the project from github.
