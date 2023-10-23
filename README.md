@@ -3,6 +3,7 @@
 
 ## Environment
 ```code
+CUDA Version==11.7
 python==3.10.13
 torch==2.0.1
 ```
