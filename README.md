@@ -56,3 +56,15 @@ nohup python preprocess_vocab.py --device 4 > vocab.log 2>&1 &
 ```sh
 nohup python statistics.py > statistics.log 2>&1 &
 ```
+
+If this work is helpful, please kindly cite as:
+```code
+@inproceedings{
+yang2023exploiting,
+title={Exploiting Emotion-Semantic Correlations for Empathetic Response Generation},
+author={Zhou Yang and Zhaochun Ren and Wang Yufeng and Xiaofei Zhu and Zhihao Chen and Tiecheng Cai and Wu Yunbing and Yisong Su and Sibo Ju and Xiangwen Liao},
+booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
+year={2023},
+url={https://openreview.net/forum?id=ilCMZV0Qdl}
+}
+```
